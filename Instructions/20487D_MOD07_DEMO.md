@@ -107,7 +107,7 @@
 33. Click **Set server firewall**.
 34. Click **Add client IP**, and then click **Save**.
 35. In success window click **OK**.
-36. Open SQL Operations Studio.
+36. Open Azure Data Studio.
 37. In **Connection type**, select **Microsoft SQL Server**.
 38. In the **Server** box, type **mod7demo2sqlserver**{YourInitials}**.database.windows.net**.
 39. From the **Authentication type** drop down list select **SQL Login**.
