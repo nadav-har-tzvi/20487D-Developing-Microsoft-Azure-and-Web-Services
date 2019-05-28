@@ -95,7 +95,7 @@ After completing this lab, you will be able to:
 1. Open the Azure portal.
 2. To create an Azure Cosmos DB graph database, in **Account Name** box type **blueyonder-destinations{YourInitials}**, and then, in **API**, select **Gremlin (graph)**. 
 3. Click **blueyonder-destinations**{YourInitials}, and then type **Azure Cosmos DB account**.
-4. To add a graph, in **Database id**, select **Create new**, type **blueyonder**, and then, in **Graph Id**, type **traveler**.
+4. To add a graph, in **Database id**, select **Create new**, type **blueyonder**, then, in **Graph Id**, type **traveler**, and then, in **Storage capacity** select **Fixed (10 GB)**.
 
 #### Task 2: Run a script to import itinerary data (flights and destinations) to the database
 
